@@ -140,10 +140,10 @@ Currently seeking **entry-level roles** in **Data Science | Data Analytics | Bus
 
 | | Certification |
 |--|--------------|
+| 🟠 | **AWS Certified Solutions Architect – Associate** |
 | ☁️ | **Oracle Cloud Generative AI Professional** |
 | 🟡 | **Google Cloud Badges** — 12 Earned |
 | 🛡️ | **Cisco Cybersecurity Essentials** |
-
 ---
 
 ## 📊 GitHub Stats
