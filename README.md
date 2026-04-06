@@ -127,6 +127,7 @@ Currently seeking **entry-level roles** in **Data Science | Data Analytics | Bus
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🤖 **[AI Executive Report Generator](https://github.com/ShreyasMysoreNarayana/AI-Executive-Report-Generator)** | AI-powered system to generate structured, leadership-ready executive reports from raw inputs using LLM workflows | `LLM` `Python` `FastAPI/Flask` `HTML` `CSS` `JavaScript` |
 | 🔍 **[Fraud Detection with RAG](https://github.com/ShreyasMysoreNarayana)** | LLM-powered fraud detection using retrieval-augmented generation | `Transformers` `FAISS` `LLM` `Python` |
 | 🎢 **[Disneyland Reviews Analysis](https://github.com/ShreyasMysoreNarayana/Disney-Land-Review-Analysis-Using-NLP-Tableau)** | Sentiment analysis + time series forecasting on park reviews | `NLP` `Tableau` `Python` `Jupyter` |
 | 🎬 **Movie Recommendation System** | Personalized recommendations using collaborative filtering | `KNN` `ARM` `R` `Shiny` |
