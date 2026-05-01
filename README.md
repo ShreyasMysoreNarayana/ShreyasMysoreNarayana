@@ -125,14 +125,16 @@ Currently seeking **entry-level roles** in **Data Science | Data Analytics | Bus
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 **[AI Executive Report Generator](https://github.com/ShreyasMysoreNarayana/AI-Executive-Report-Generator)** | AI-powered system to generate structured, leadership-ready executive reports from raw inputs using LLM workflows | `LLM` `Python` `FastAPI/Flask` `HTML` `CSS` `JavaScript` |
-| 🔍 **[Fraud Detection with RAG](https://github.com/ShreyasMysoreNarayana)** | LLM-powered fraud detection using retrieval-augmented generation | `Transformers` `FAISS` `LLM` `Python` |
-| 🎢 **[Disneyland Reviews Analysis](https://github.com/ShreyasMysoreNarayana/Disney-Land-Review-Analysis-Using-NLP-Tableau)** | Sentiment analysis + time series forecasting on park reviews | `NLP` `Tableau` `Python` `Jupyter` |
-| 🎬 **Movie Recommendation System** | Personalized recommendations using collaborative filtering | `KNN` `ARM` `R` `Shiny` |
-| 🍔 **NLP Food Ordering Chatbot** | Conversational AI for restaurant ordering workflows | `Dialogflow` `Python` `NLP` |
-| 🗃️ **Data Agent CLI** | Command-line tool for querying and exploring large datasets | `Python` `SQL` `CLI` |
+| 🤖 **[AI Executive Report System](https://github.com/ShreyasMysoreNarayana/AI-Executive-Report-Generator)** | Built an AI-powered system that converts raw data into structured, leadership-ready executive reports using LLM workflows, enabling faster decision-making | `LLM` `Python` `FastAPI` `Automation` |
+| 📊 **[AI Data Analysis Agent](https://github.com/ShreyasMysoreNarayana/Data-Agent)** | Developed a chatbot-style data agent capable of querying, analyzing, and generating insights from large datasets using natural language | `Python` `SQL` `NLP` `CLI` |
+| 🧠 **[MRI Brain Analysis (Research)](https://github.com/ShreyasMysoreNarayana/MRI-Brain-SYNSET-Analysis-RA-)** | Conducted feature selection and predictive modeling on brain scan datasets using LASSO, Genetic Algorithms, and LDA to support clinical decision-making | `Python` `Machine Learning` `LASSO` `Feature Selection` |
+| 🎢 **[Disneyland Reviews Analysis](https://github.com/ShreyasMysoreNarayana/Disney-Land-Review-Analysis-Using-NLP-Tableau)** | Performed sentiment analysis and time-series forecasting on 42K+ reviews; built interactive Tableau dashboards for trend insights and business storytelling | `NLP` `Tableau` `Python` |
+| ⚡ **[Job Application Automation System](https://github.com/ShreyasMysoreNarayana/Linked_Easy_Apply_Automation)** | Automated LinkedIn job applications using scripting and workflow automation, reducing manual effort and improving application efficiency | `JavaScript` `Automation` |
+| 🎬 **[Movie Recommendation System](https://github.com/ShreyasMysoreNarayana/Movie-Recommendation-System)** | Built a hybrid recommendation engine using KNN and Association Rule Mining on large-scale datasets to deliver personalized suggestions | `KNN` `ARM` `R` `Shiny` |
 
 ---
 
