@@ -169,3 +169,63 @@ Dashboards / AI Applications
 Actionable Insights
    ↓
 Decision-Making
+## 📜 Certifications
+
+| | Certification |
+|--|--------------|
+| 🟠 | **AWS Certified Solutions Architect – Associate** |
+| ☁️ | **Oracle Cloud Generative AI Professional** |
+| 🟡 | **Google Cloud Badges** — 12 Earned |
+| 🛡️ | **Cisco Cybersecurity Essentials** |
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShreyasMysoreNarayana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasMysoreNarayana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasMysoreNarayana&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasMysoreNarayana&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm actively seeking **full-time roles** in:
+```
+✅ Data Scientist          ✅ Data Analyst
+✅ ML Engineer             ✅ Business Intelligence Analyst
+✅ Analytics Engineer      ✅ AI/NLP Engineer
+```
+
+I bring a strong foundation in **statistical modeling**, **scalable data engineering**, and **storytelling with data** — plus the communication skills to present insights to both technical and non-technical stakeholders.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyas-m-n-/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mnshreyas615@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ShreyasMysoreNarayana">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>"Data is the new oil — but only if you know how to refine it."</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
